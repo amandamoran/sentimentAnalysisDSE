@@ -10,7 +10,7 @@ Choose between running Demo by loading live Twitter data or loading data from CS
 * DSE Analytics 6
 * Latest Version of Jupyter
 #### Setup Twitter Account
-* Create a Twitter Account and get API access: https://developer.twitter.com/en/docs/ads/general/guides/getting-started.html
+* Create a Twitter Account and get API access: https://developer.twitter.com/en/docs/basics/getting-started
 #### Install and Start DSE
 * Install DSE https://docs.datastax.com/en/install/doc/install60/installTOC.html
 * Start DSE Analytics Cluster: dse cassandra -k #Must use -k option for Analytics
